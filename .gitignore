@@ -7,4 +7,4 @@
 !.bashrc
 !.tmux.conf
 !.npmrc
-
+!.bash/**/*
