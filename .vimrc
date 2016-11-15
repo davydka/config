@@ -36,6 +36,11 @@ filetype plugin indent on    " required
 " *********************************************************************
 " *********************************************************************
 
+" Resize tabs
+set tabstop=4
+set softtabstop=0 noexpandtab
+set shiftwidth=4
+
 " Turn on syntax highlighting.
 syntax on
 

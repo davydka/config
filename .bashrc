@@ -117,8 +117,8 @@ export PATH="$PATH:$HOME/.npm-packages/bin"
 export EDITOR=vim
 
 # Base16 Shell
-BASE16_SHELL="$HOME/.config/base16-shell/base16-default.dark.sh"
-[[ -s $BASE16_SHELL ]] && source $BASE16_SHELL
+BASE16_SHELL=$HOME/.config/base16-shell/
+[ -n "$PS1" ] && [ -s $BASE16_SHELL/profile_helper.sh ] && eval "$($BASE16_SHELL/profile_helper.sh)"
 
 # always start in the ~/Sites directory.
 cd ~/Sites/
