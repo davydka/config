@@ -12,3 +12,5 @@ https://github.com/VundleVim/Vundle.vim
 
 https://github.com/chriskempson/base16-shell
 
+base16_atelier-estuary
+
