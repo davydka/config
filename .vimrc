@@ -16,6 +16,9 @@ Plugin 'pangloss/vim-javascript'
 " Syntax highlighting and indenting for JSX
 Bundle 'mxw/vim-jsx'
 
+" Nerdtree
+Plugin 'scrooloose/nerdtree'
+
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
@@ -75,3 +78,8 @@ imap <right> <nop>
 " Change background color when in Insert Mode
 "au InsertEnter * hi Normal ctermbg=234 guibg=#000000
 "au InsertLeave * hi Normal ctermbg=232 guibg=#1b1d1e
+
+"set foldmethod=syntax
+"set foldlevelstart=2
+
+"let javaScript_fold=2
