@@ -141,3 +141,6 @@ export PS1="\${debian_chroot:+(\$debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]
 # http://pm2.keymetrics.io/docs/usage/specifics/#listening-on-port-80-w-o-root
 alias pm2='authbind --deep pm2'
 alias http-server='authbind --deep http-server'
+
+# list couchdb processes
+ps aux | grep couchdb | grep -v grep
