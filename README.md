@@ -11,6 +11,10 @@
 
 
 
+#crouton/osx
+* https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/README.md#x11-installation
+
+
 
 #pi
 
