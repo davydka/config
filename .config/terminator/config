@@ -1,0 +1,94 @@
+[global_config]                                                                                                                                                [33/1990]
+  borderless = True
+  title_use_system_font = False
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child0]]]
+      fullscreen = False
+      last_active_term = 3a5aedb3-483c-4354-8811-09ee6a61c863
+      last_active_window = True
+      maximised = False
+      order = 0
+      parent = ""
+      position = 0:0
+      size = 1366, 768
+      title = /bin/bash
+      type = Window
+    [[[terminal1]]]
+      order = 0
+      parent = child0
+      profile = SeaShells
+      type = Terminal
+      uuid = 3a5aedb3-483c-4354-8811-09ee6a61c863
+  [[thing]]
+    [[[child0]]]
+      fullscreen = False
+      last_active_term = 3a5aedb3-483c-4354-8811-09ee6a61c863
+      last_active_window = True
+      maximised = True
+      order = 0
+      parent = ""
+      position = 0:0                                                                                                                                            [2/1990]
+      size = 1366, 766
+      title = /bin/bash
+      type = Window
+    [[[terminal1]]]
+      order = 0
+      parent = child0
+      profile = SeaShells
+      type = Terminal
+      uuid = 3a5aedb3-483c-4354-8811-09ee6a61c863
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#300a24"
+    background_image = None
+    foreground_color = "#ffffff"
+    palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
+    show_titlebar = False
+  [[SeaShells]]
+    background_color = "#09141b"
+    background_image = None
+    cursor_color = "#fca02f"
+    foreground_color = "#deb88d"
+    palette = "#17384c:#d15123:#027c9b:#fca02f:#1e4950:#68d4f1:#50a3b5:#deb88d:#434b53:#d48678:#628d98:#fdd39f:#1bbcdd:#bbe3ee:#87acb4:#fee4ce"
+    show_titlebar = False
+  [[Symfonic]]
+    background_image = None
+    cursor_color = "#dc322f"
+    foreground_color = "#ffffff"
+    icon_bell = False
+    palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
+         position = 0:0                                                                                                                                            [2/1990]
+      size = 1366, 766
+      title = /bin/bash
+      type = Window
+    [[[terminal1]]]
+      order = 0
+      parent = child0
+      profile = SeaShells
+      type = Terminal
+      uuid = 3a5aedb3-483c-4354-8811-09ee6a61c863
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#300a24"
+    background_image = None
+    foreground_color = "#ffffff"
+    palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
+    show_titlebar = False
+  [[SeaShells]]
+    background_color = "#09141b"
+    background_image = None
+    cursor_color = "#fca02f"
+    foreground_color = "#deb88d"
+    palette = "#17384c:#d15123:#027c9b:#fca02f:#1e4950:#68d4f1:#50a3b5:#deb88d:#434b53:#d48678:#628d98:#fdd39f:#1bbcdd:#bbe3ee:#87acb4:#fee4ce"
+    show_titlebar = False
+  [[Symfonic]]
+    background_image = None
+    cursor_color = "#dc322f"
+    foreground_color = "#ffffff"
+    icon_bell = False
+    palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
+    show_titlebar = False
