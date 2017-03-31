@@ -1,13 +1,13 @@
 #general
 
 * `sudo apt-get install vim`
-* `sudo apt-get install tmux`
 * `sudo apt-get install git`
 * https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
 * https://github.com/jimeh/git-aware-prompt
-* https://github.com/chriskempson/base16-shell
-* `base16_atelier-estuary`
 * https://github.com/VundleVim/Vundle.vim
+* `sudo apt-get install tmux`
+* http://stackoverflow.com/questions/25940944/ugrade-tmux-from-1-8-to-1-9-on-ubuntu-14-04
+* git clone https://github.com/tmux-plugins/tmux-resurrect ~/.tmux-plugins
 
 
 
