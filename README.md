@@ -1,4 +1,4 @@
-#general
+# general
 
 * `sudo apt-get install vim`
 * `sudo apt-get install git`
@@ -11,12 +11,12 @@
 
 
 
-#crouton/osx
+# crouton/osx
 * https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/README.md#x11-installation
 
 
 
-#pi
+# pi
 
 * pibakery
 * raspbian (lite)
