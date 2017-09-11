@@ -8,7 +8,7 @@
 * `sudo apt-get install tmux`
 * http://stackoverflow.com/questions/25940944/ugrade-tmux-from-1-8-to-1-9-on-ubuntu-14-04
 * `git clone https://github.com/tmux-plugins/tmux-resurrect ~/.tmux-plugins`
-* https://gist.github.com/gbaman/50b6cca61dd1c3f88f41
+* pi zero otg guide - https://gist.github.com/gbaman/50b6cca61dd1c3f88f41
 
 
 
