@@ -11,9 +11,11 @@
 * pi zero otg guide - https://gist.github.com/gbaman/50b6cca61dd1c3f88f41
 
 
-
 # crouton/osx
 * https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/README.md#x11-installation
+* https://github.com/creationix/nvm
+* `nvm use system`
+* `nvm alias default node`
 
 
 
