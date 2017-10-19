@@ -3,6 +3,7 @@
 * `sudo apt-get install vim`
 * `sudo apt-get install git`
 * https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
+* `npm install -g eslint` important for syntastic+vundle+vimrc
 * https://github.com/jimeh/git-aware-prompt
 * https://github.com/VundleVim/Vundle.vim
 * `sudo apt-get install tmux`
