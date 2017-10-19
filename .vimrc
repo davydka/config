@@ -74,6 +74,17 @@ imap <right> <nop>
 
 set mouse=a
 
+" eslint
+set statusline+=%#warningmsg#
+set statusline+=%{SyntasticStatuslineFlag()}
+set statusline+=%*
+let g:syntastic_always_populate_loc_list = 1
+let g:syntastic_auto_loc_list = 1
+let g:syntastic_check_on_open = 1
+let g:syntastic_check_on_wq = 0
+let g:syntastic_javascript_checkers = ['eslint']
+let g:syntastic_javascript_eslint_exe = 'npm run lint --'
+
 " Change background color when in Insert Mode
 "au InsertEnter * hi Normal ctermbg=234 guibg=#000000
 "au InsertLeave * hi Normal ctermbg=232 guibg=#1b1d1e
@@ -82,3 +93,4 @@ set mouse=a
 "set foldlevelstart=2
 
 "let javaScript_fold=2
+
