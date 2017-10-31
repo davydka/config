@@ -73,6 +73,7 @@ imap <left> <nop>
 imap <right> <nop>
 
 set mouse=a
+map <F7> mzgg=G`z
 
 " eslint
 set statusline+=%#warningmsg#
