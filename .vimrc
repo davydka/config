@@ -74,6 +74,7 @@ imap <right> <nop>
 
 set mouse=a
 map <F7> mzgg=G`z
+set timeoutlen=1000 ttimeoutlen=0
 
 " eslint
 set statusline+=%#warningmsg#
