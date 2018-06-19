@@ -14,6 +14,7 @@
 
 # osx
 * https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/README.md#x11-installation
+  * glacier theme
 * https://github.com/creationix/nvm
 * `nvm use system`
 * `nvm alias default node`
