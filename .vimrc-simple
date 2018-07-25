@@ -1,0 +1,47 @@
+set nocompatible              " be iMproved, required
+filetype off                  " required
+
+filetype plugin indent on
+" show existing tab with 4 spaces width
+set tabstop=2
+" when indenting with '>', use 4 spaces width
+set shiftwidth=2
+" On pressing tab, insert 4 spaces
+set expandtab
+
+" Turn on syntax highlighting.
+syntax on
+
+" Turn on line numbering. Turn it off with "set nonu" 
+set number
+
+" Turn on show whitespaces
+set list
+
+" Use the some nicer symbols for tabstops and EOLs
+set listchars=tab:▸\ ,eol:¬
+
+" Tap double esc to save changes
+map <Esc><Esc> :w<CR>
+
+" Disable swapfile to work better with Watchify
+set noswapfile
+
+" size of a hard tabstop
+"set tabstop=4
+
+" Force myself to not use arrow keys
+map <up> <nop>
+map <down> <nop>
+map <left> <nop>
+map <right> <nop>
+imap <up> <nop>
+imap <down> <nop>
+imap <left> <nop>
+imap <right> <nop>
+
+set mouse=a
+map <F7> mzgg=G`z
+set timeoutlen=1000 ttimeoutlen=0
+
+
