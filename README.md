@@ -64,6 +64,9 @@ xserver-command=X -s 0 dpms
 
 # win
 
+* `https://notepad-plus-plus.org/repository/7.x/7.5.8/npp.7.5.8.Installer.x64.exe`
+* `https://visualstudio.microsoft.com/downloads/` For app dev, OF and native applications
+* `https://code.visualstudio.com/` For JS and web dev
 * `http://cmder.net/`
 * `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux`
 * `Invoke-WebRequest -Uri https://aka.ms/wsl-ubuntu-1604 -OutFile Ubuntu.appx -UseBasicParsing`
