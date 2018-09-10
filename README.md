@@ -61,3 +61,10 @@ In that file, look for:
 and insert this line:
 xserver-command=X -s 0 dpms
 ```
+
+# win
+
+* `http://cmder.net/`
+* `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux`
+* `Invoke-WebRequest -Uri https://aka.ms/wsl-ubuntu-1604 -OutFile Ubuntu.appx -UseBasicParsing`
+* `https://nickjanetakis.com/blog/using-wsl-and-mobaxterm-to-create-a-linux-dev-environment-on-windows`
