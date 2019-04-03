@@ -10,7 +10,7 @@
 * http://stackoverflow.com/questions/25940944/ugrade-tmux-from-1-8-to-1-9-on-ubuntu-14-04
 * `git clone https://github.com/tmux-plugins/tmux-resurrect ~/.tmux-plugins`
 * pi zero otg guide - https://gist.github.com/gbaman/50b6cca61dd1c3f88f41
-* zmap - https://gist.github.com/davydka/c67288d74bf74bbcd18c4869b48c0d6d
+* *zmap* - https://gist.github.com/davydka/c67288d74bf74bbcd18c4869b48c0d6d
 
 
 # osx
