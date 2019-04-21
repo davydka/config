@@ -1,0 +1,8 @@
+[
+    { "keys": ["escape", "escape"], "command": "save",
+        "context":
+        [
+            { "key": "setting.command_mode", "operand": true }
+        ]
+    }
+]
